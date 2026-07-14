@@ -27,3 +27,9 @@ O ecossistema do aplicativo foi mantido enxuto para evitar *bloatware*, dependen
 ### Pré-requisitos
 * Flutter SDK instalado e configurado nas Variáveis de Ambiente.
 * Dispositivo Android físico conectado
+
+### grupo
+
+* Italo
+* paulo
+* Josivlado
