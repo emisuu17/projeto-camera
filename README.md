@@ -4,6 +4,12 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### grupo
+
+* Italo dantas
+* Paulo victor
+* Josivaldo ermeson
+
 ## Sobre o Projeto
 
 Este aplicativo é uma prova de conceito (PoC) que demonstra como acessar, controlar e gerenciar os sensores físicos de um dispositivo Android de forma nativa. O objetivo principal é ilustrar as melhores práticas de comunicação direta com o hardware, gestão de arquivos multimídia e controle rigoroso de recursos de memória através da observação do ciclo de vida do sistema operacional.
@@ -27,13 +33,6 @@ O ecossistema do aplicativo foi mantido enxuto para evitar *bloatware*, dependen
 ### Pré-requisitos
 * Flutter SDK instalado e configurado nas Variáveis de Ambiente.
 * Dispositivo Android físico conectado
-
-### grupo
-
-* Italo dantas
-* Paulo victor
-* Josivaldo ermeson
-
 
 ### Acesse a pasta do projeto:
 cd projeto_camera
