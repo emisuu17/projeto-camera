@@ -30,6 +30,16 @@ O ecossistema do aplicativo foi mantido enxuto para evitar *bloatware*, dependen
 
 ### grupo
 
-* Italo
-* paulo
-* Josivlado
+* Italo dantas
+* Paulo victor
+* Josivaldo ermeson
+
+
+### Acesse a pasta do projeto:
+cd projeto_camera
+
+### Sincronize as dependências nativas:
+flutter pub get
+
+### Compile e execute no dispositivo alvo:
+flutter run
